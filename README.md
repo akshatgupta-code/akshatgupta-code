@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Akshat Gupta 👋
 
-<!--
-**akshatgupta-code/akshatgupta-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Sc. Data Science student building my foundation in programming,
+software development, and data technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Sc. Data Science student
+- 💻 Learning C and Python
+- 🗄️ Learning PostgreSQL
+- 🚀 Exploring Software Development and Data Science
+
+## Currently Learning
+
+- Programming fundamentals
+- Data Structures & Algorithms
+- SQL and databases
+- Software development
+
+## Projects
+
+Projects will be added as I build them.
+
+## Connect
+
+- LinkedIn: linkedin.com/in/akshat-gupta-57277143b
